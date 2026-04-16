@@ -1,7 +1,8 @@
 # Awesome Activation Steering
 
 > A curated collection of papers on **activation steering** and **representation engineering** in large language models.
-> Since January 2026, I've been diving into this field as a complete beginner — and keeping up with the papers has been no small feat. This page started as my personal way of staying organized. There may be errors along the way, but if you're new here, too, I hope it saves you some of the confusion I went through.
+
+> Since January 2026, I've been diving into this field as a beginner, and keeping up with the papers has been no small feat. There may be errors along the way, but if you're new here, too, I hope it saves you some of the confusion I went through.
 
 ## What is Activation Steering?
 - A technique for guiding model behavior by directly modifying internal activation values at inference time—typically by intervening in the residual stream.
