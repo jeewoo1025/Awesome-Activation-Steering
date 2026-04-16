@@ -36,9 +36,14 @@
 - [Improved Representation Steering for Language Models](https://arxiv.org/abs/2505.20809) `NIPS 2025`
 - [HyperSteer: Activation Steering at Scale with Hypernetworks](https://arxiv.org/abs/2506.03292) `2025-06` `arXiv`
 - [Steerable Chatbots: Personalizing LLMs with Preference-Based Activation Steering](https://arxiv.org/abs/2505.04260) `2025-05` `arXiv`
+- [Mitigating Overthinking in Large Reasoning Models via Manifold Steering](https://arxiv.org/abs/2505.22411) `2025-05` `arXiv`
+- [In-Distribution Steering: Balancing Control and Coherence in Language Model Generation](https://arxiv.org/abs/2510.13285) `2025-10` `arXiv`
 - [BILLY: Steering LLMs via Merging Persona Vectors for Creative Generation](https://arxiv.org/abs/2510.10157) `2025-10` `arXiv`
 - [CogSteer: Cognition-Inspired Selective Layer Intervention for Efficiently Steering LLMs](https://arxiv.org/abs/2410.17714) `ACL 2025 Findings`
 - [Toward universal steering and monitoring of AI models](https://www.science.org/doi/10.1126/science.aea6792) `2026` `Science`
+- [Weight Updates as Activation Shifts: A Principled Framework for Steering](https://arxiv.org/abs/2603.00425v1) `2026-02` `arXiv`
+- [Attention Residuals](https://arxiv.org/abs/2603.15031) `2026-03` `arXiv`
+- [Fine-Grained Activation Steering: Steering Less, Achieving More](https://arxiv.org/abs/2602.04428) `ICLR 2026`
 
 ### AI Safety
 - [Refusal in language models is mediated by a single direction](https://arxiv.org/abs/2406.11717) `2024-06` `arXiv`
