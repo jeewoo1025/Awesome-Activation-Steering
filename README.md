@@ -112,3 +112,7 @@
 - [Personality Traits in LLMs](https://arxiv.org/abs/2307.00184) `2025-07` `arXiv`
 - [Big5-Chat: Shaping LLM personalities through training on human-grounded data](https://arxiv.org/abs/2410.16491) `2024-10` `arXiv`
 - [Personality Vector: Modulating Personality of LLMs by Model Merging](https://arxiv.org/abs/2509.19727) `EMNLP 2025`
+
+### Benchmarks
+- [LaMP: When Large Language Models Meet Personalization](https://aclanthology.org/2024.acl-long.399/) `ACL 2024`
+- [LongLaMP: A Benchmark for Personalized Long-form Text Generation](https://arxiv.org/abs/2407.11016) `2025-06` `arXiv`
