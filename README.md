@@ -9,6 +9,9 @@
 - The term "Activation Engineering" was coined in the paper *Steering Language Models With Activation Engineering* (arXiv, August 2023).
 - The central challenge is finding a meaningful steering direction within the LLM's high-dimensional latent space that reliably produces the desired behavioral change.
 
+### 🤔 Does it really work?
+From my own experimentation, I'd lean toward **yes**. That said, measuring the effectiveness of steering remains a non-trivial challenge, and in some domains, it demonstrably underperforms both prompting and fine-tuning. 
+
 ---
 
 ## 📑 Table of Contents
