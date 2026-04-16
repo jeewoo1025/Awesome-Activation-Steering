@@ -23,6 +23,7 @@
 ## 🏆 Benchmarks
 - **[AxBench](https://arxiv.org/abs/2501.17148)**: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders `ICML 2025 Spotlight`
 - [Steer-Bench: A Benchmark for Evaluating the Steerability of LLMs](https://arxiv.org/html/2505.20645v2) `2025-01` `arXiv`
+- [AISteer360](https://ibm.github.io/AISteer360/) `2025-01`
 
 ## 🎯 Activation Steering
 
@@ -32,10 +33,11 @@
 - [Analyzing the Generalization and Reliability of Steering Vectors](https://arxiv.org/abs/2407.12404) `2024-07` `arXiv`
 - [Reliability Challenges in Steering Language Models](https://arxiv.org/abs/2504.04635) `2025-04` `arXiv`
 - [SAEs Are Good for Steering — If You Select the Right Features](https://arxiv.org/abs/2505.20063) `EMNLP 2025`
-- Improved Representation Steering for Language Models `NIPS 2025`
+- [Improved Representation Steering for Language Models](https://arxiv.org/abs/2505.20809) `NIPS 2025`
 - [HyperSteer: Activation Steering at Scale with Hypernetworks](https://arxiv.org/abs/2506.03292) `2025-06` `arXiv`
 - [Steerable Chatbots: Personalizing LLMs with Preference-Based Activation Steering](https://arxiv.org/abs/2505.04260) `2025-05` `arXiv`
 - [BILLY: Steering LLMs via Merging Persona Vectors for Creative Generation](https://arxiv.org/abs/2510.10157) `2025-10` `arXiv`
+- [CogSteer: Cognition-Inspired Selective Layer Intervention for Efficiently Steering LLMs](https://arxiv.org/abs/2410.17714) `ACL 2025 Findings`
 - [Toward universal steering and monitoring of AI models](https://www.science.org/doi/10.1126/science.aea6792) `2026` `Science`
 
 ### AI Safety
