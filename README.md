@@ -26,9 +26,10 @@ From my own experimentation, I'd lean toward **yes**. That said, measuring the e
 ---
 
 ## 🏆 Benchmarks
-- **[AxBench](https://arxiv.org/abs/2501.17148)**: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders `ICML 2025 Spotlight`
+- [AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders](https://arxiv.org/abs/2501.17148): Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders `ICML 2025 Spotlight`
 - [Steer-Bench: A Benchmark for Evaluating the Steerability of LLMs](https://arxiv.org/html/2505.20645v2) `2025-01` `arXiv`
 - [AISteer360](https://ibm.github.io/AISteer360/) `2025-01`
+- [MIB: A Mechanistic Interpretability Benchmark](https://openreview.net/forum?id=sSrOwve6vb) `ICML 2025`
 
 ## 🎯 Activation Steering
 
