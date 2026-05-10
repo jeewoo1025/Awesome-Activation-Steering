@@ -12,6 +12,11 @@
 ### 🤔 Does it really work?
 From my own experimentation, I'd lean toward **yes**. That said, measuring the effectiveness of steering remains a non-trivial challenge, and in some domains, it demonstrably underperforms both prompting and fine-tuning. 
 
+### Before You Start
+The industry is moving fast — Anthropic is actively publishing updates in this space. The following resources are highly recommended:
+- [Transformer Circuits](https://transformer-circuits.pub/) — Anthropic's research blog on mechanistic interpretability. Essential reading for understanding how language models work at a circuit level.
+- [Activation Engineering posts on LessWrong](https://www.lesswrong.com/w/activation-engineering) — A curated collection of posts exploring how to steer model behavior by intervening on internal activations.
+
 ---
 
 ## 📑 Table of Contents
