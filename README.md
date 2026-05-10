@@ -50,6 +50,8 @@ From my own experimentation, I'd lean toward **yes**. That said, measuring the e
 - [Weight Updates as Activation Shifts: A Principled Framework for Steering](https://arxiv.org/abs/2603.00425v1) `2026-02` `arXiv`
 - [Attention Residuals](https://arxiv.org/abs/2603.15031) `2026-03` `arXiv`
 - [Fine-Grained Activation Steering: Steering Less, Achieving More](https://arxiv.org/abs/2602.04428) `ICLR 2026`
+- [Steer Like the LLM: Activation Steering that Mimics Prompting](https://arxiv.org/abs/2605.03907) `ICML 2026`
+- [Local Linearity of LLMs Enables Activation Steering via Model-Based Linear Optimal Control](https://arxiv.org/abs/2604.19018) `ICML 2026`
 
 ### AI Safety
 - [Refusal in language models is mediated by a single direction](https://arxiv.org/abs/2406.11717) `2024-06` `arXiv`
