@@ -45,6 +45,7 @@ The industry is moving fast — Anthropic is actively publishing updates in this
 - [Reliability Challenges in Steering Language Models](https://arxiv.org/abs/2504.04635) `2025-04` `arXiv`
 - [SAEs Are Good for Steering — If You Select the Right Features](https://arxiv.org/abs/2505.20063) `EMNLP 2025`
 - [Improved Representation Steering for Language Models](https://arxiv.org/abs/2505.20809) `NIPS 2025`
+- [ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2502.15543) `NIPS 2025`
 - [HyperSteer: Activation Steering at Scale with Hypernetworks](https://arxiv.org/abs/2506.03292) `2025-06` `arXiv`
 - [Steerable Chatbots: Personalizing LLMs with Preference-Based Activation Steering](https://arxiv.org/abs/2505.04260) `2025-05` `arXiv`
 - [Mitigating Overthinking in Large Reasoning Models via Manifold Steering](https://arxiv.org/abs/2505.22411) `2025-05` `arXiv`
@@ -70,6 +71,7 @@ The industry is moving fast — Anthropic is actively publishing updates in this
 ### Dynamic Activation Steering
 - [Programming Refusal with Conditional Activation Steering](https://arxiv.org/abs/2409.05907) `ICLR 2025 Spotlight`
 - [ODESteer: A Unified ODE-Based Steering Framework for LLM Alignment](https://arxiv.org/abs/2602.17560) `ICLR 2026`
+- [SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2606.27786) `2026-06` `arXiv`
 
 ### Reasoning
 - [Improving Reasoning in LLMs via Representation Engineering](https://arxiv.org/abs/2504.19483) `2025-04` `arXiv`
