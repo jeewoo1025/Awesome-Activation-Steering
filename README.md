@@ -57,6 +57,7 @@ The industry is moving fast — Anthropic is actively publishing updates in this
 - [Fine-Grained Activation Steering: Steering Less, Achieving More](https://arxiv.org/abs/2602.04428) `ICLR 2026`
 - [Steer Like the LLM: Activation Steering that Mimics Prompting](https://arxiv.org/abs/2605.03907) `ICML 2026`
 - [Local Linearity of LLMs Enables Activation Steering via Model-Based Linear Optimal Control](https://arxiv.org/abs/2604.19018) `ICML 2026`
+- [Beyond Linear Activation Steering: Invertible Latent Transformations for Controlling LLM Behavior](https://arxiv.org/abs/2606.08454) `NeurIPS 2026 Spotlight`
 
 ### AI Safety
 - [Refusal in language models is mediated by a single direction](https://arxiv.org/abs/2406.11717) `2024-06` `arXiv`
